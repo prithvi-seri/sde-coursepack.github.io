@@ -61,7 +61,7 @@ practice to ensure our software *stays* maintainable.
 ## Software Entropy
 
 *Entropy* is the idea that in our Universe, energy within
-a closed-system cannot become more orderly overtime, and
+a closed-system cannot become more orderly over time, and
 not all processes are reversible. That is, things trend towards disorder. A consequence of this
 is that the chemical energy in gasoline cannot be perfectly
 turned into kinetic energy. We will lose
@@ -72,7 +72,7 @@ even more energy. Ultimately, given enough time, even our
 all energy becomes so spread out as to never meaningfully
 interact again.
 
-In the same way, overtime, software naturally becomes harder
+In the same way, over time, software naturally becomes harder
 and harder to modify. The *maintainability* of the software
 decreases. This is party because the software becomes larger and
 more complex; the more code there is, the longer it takes
