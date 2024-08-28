@@ -94,7 +94,7 @@ may go something like:
 > You take one down, patch it around  
 > 105 unfixed bugs in the code"
 
-For some software, this song never ends: we never fix all the known defects (let alone unknown defects), because doing so would require more effort than it is worth. If a bug only occursin exceedingly rare cases, is hard to recreate, and fixing would
+For some software, this song never ends: we never fix all the known defects (let alone unknown defects), because doing so would require more effort than it is worth. If a bug only occurs in exceedingly rare cases, is hard to recreate, and fixing would
 require a massive redesign of several highly connected sub-systems,
 we often may not fix it at all.
 
